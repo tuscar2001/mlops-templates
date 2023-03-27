@@ -3,7 +3,7 @@
 parameters:
 - name: experiment_name
   type: string
-- name: data_name
+- name: my_data
   type: string
 - name: environment_name
   type: string
